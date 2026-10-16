@@ -387,6 +387,7 @@ nav .fa-solid {
   nav .fa-solid {
     display: block;
     font-size: 25px;
+    cursor: pointer;
   }
 
   nav ul {
@@ -398,6 +399,7 @@ nav .fa-solid {
     height: 100vh;
     padding-top: 50px;
     z-index: 2;
+    transition: right 0.5s;
   }
 
   nav ul li {
