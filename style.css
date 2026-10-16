@@ -1,7 +1,7 @@
 * {
   margin: 0;
   padding: 0;
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
   box-sizing: border-box;
 }
 
@@ -47,7 +47,7 @@ nav ul li a {
 }
 
 nav ul li a::after {
-  content: '';
+  content: "";
   width: 0;
   height: 3px;
   background: #ff004f;
@@ -121,7 +121,7 @@ nav ul li a:hover::after {
 }
 
 .tab-links::after {
-  content: '';
+  content: "";
   width: 0;
   height: 3px;
   background: #ff004f;
@@ -178,7 +178,6 @@ nav ul li a:hover::after {
 .services-list div i {
   font-size: 50px;
   margin-bottom: 30px;
-
 }
 
 .services-list div h2 {
@@ -204,5 +203,4 @@ nav ul li a:hover::after {
 
 #portfolio {
   padding: 50px 0;
-
 }
